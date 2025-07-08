@@ -1,0 +1,22 @@
+# Ignore build output folder
+target/
+
+# Ignore version control files
+.git/
+.gitignore
+
+# Ignore IDE and local config files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore log files
+*.log
+
+# Ignore local environment variables
+.env
+
+# Optionally ignore Docker-related files
+Dockerfile
+.dockerignore
